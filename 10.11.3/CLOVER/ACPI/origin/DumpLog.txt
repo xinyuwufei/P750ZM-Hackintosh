@@ -1,0 +1,138 @@
+15:996  0:435  Found BIOS RSDP at F0010
+15:996  0:000  Printing ACPI tables from RSDP F0010 ...
+15:996  0:000   F0010: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+15:996  0:000    (Xsdt: DECAE090, Rsdt: DECAE028)
+15:996  0:000    DECAE090: 'XSDT', 'A M I', Rev: 1, Len: 164
+15:996  0:000    DECAE028: 'RSDT', 'A M I', Rev: 1, Len: 100
+15:996  0:000    Tables in Xsdt: 16
+15:996  0:000    0. DECBF950: 'FACP', 'A M I', Rev: 5, Len: 268
+15:996  0:000        (Dsdt: DECAE1D0, Facs: DECEAF80, XDsdt: DECAE1D0, XFacs: 0)
+15:996  0:000        DECAE1D0: 'DSDT', 'A M I', Rev: 2, Len: 71552
+15:997  0:000        DECEAF80: 'FACS', Ver: 2, Len: 64
+15:997  0:000    1. DECBFA60: 'APIC', 'A M I', Rev: 3, Len: 146
+15:997  0:000    2. DECBFAF8: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:997  0:000    3. DECBFB40: 'FIDT', 'A M I', Rev: 1, Len: 156
+15:997  0:000    4. DECBFBE0: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:997  0:000    5. DECBFC88: 'SSDT', 'PtidDevc', Rev: 2, Len: 13359
+15:997  0:000    6. DECC30B8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+15:997  0:000    7. DECC30F0: 'SSDT', 'NvdTabl', Rev: 1, Len: 7379
+15:997  0:000    8. DECC4DC8: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+15:997  0:000    9. DECC5308: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+15:997  0:000    10. DECC5E80: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:997  0:000    11. DECC5EC0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:997  0:000    12. DECC5EF8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:997  0:000    13. DECC6268: 'SSDT', 'SaSsdt ', Rev: 2, Len: 23389
+15:997  0:000    14. DECCBDC8: 'UEFI', 'A M I', Rev: 1, Len: 66
+15:997  0:000    15. DECCBE10: 'BGRT', 'A M I', Rev: 0, Len: 56
+15:997  0:000    Tables in Rsdt: 16
+15:997  0:000    0. DECAE148: 'FACP', 'A M I', Rev: 2, Len: 132
+15:997  0:000        (Dsdt: DECAE1D0, Facs: DECEAF40)
+15:997  0:000        DECAE1D0: 'DSDT', 'A M I', Rev: 2, Len: 71552
+15:998  0:000        DECEAF40: 'FACS', Ver: 0, Len: 64
+15:998  0:000    1. DECBFA60: 'APIC', 'A M I', Rev: 3, Len: 146
+15:998  0:000    2. DECBFAF8: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:998  0:000    3. DECBFB40: 'FIDT', 'A M I', Rev: 1, Len: 156
+15:998  0:000    4. DECBFBE0: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:998  0:000    5. DECBFC88: 'SSDT', 'PtidDevc', Rev: 2, Len: 13359
+15:998  0:000    6. DECC30B8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+15:998  0:000    7. DECC30F0: 'SSDT', 'NvdTabl', Rev: 1, Len: 7379
+15:998  0:000    8. DECC4DC8: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+15:998  0:000    9. DECC5308: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+15:998  0:000    10. DECC5E80: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:998  0:000    11. DECC5EC0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:998  0:000    12. DECC5EF8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:998  0:000    13. DECC6268: 'SSDT', 'SaSsdt ', Rev: 2, Len: 23389
+15:998  0:000    14. DECCBDC8: 'UEFI', 'A M I', Rev: 1, Len: 66
+15:998  0:000    15. DECCBE10: 'BGRT', 'A M I', Rev: 0, Len: 56
+15:998  0:000  Found UEFI Acpi 2.0 RSDP at DECAE000
+15:998  0:000  Saving ACPI tables from RSDP DECAE000 to EFI\CLOVER\ACPI\origin ...
+15:998  0:000   DECAE000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+15:998  0:000    (Xsdt: DECAE090, Rsdt: DECAE028)
+15:998  0:000    DECAE090: 'XSDT', 'A M I', Rev: 1, Len: 164
+15:998  0:000    DECAE028: 'RSDT', 'A M I', Rev: 1, Len: 100
+15:998  0:000    Tables in Xsdt: 16
+15:998  0:000    0. DECBF950: 'FACP', 'A M I', Rev: 5, Len: 268
+15:998  0:000        (Dsdt: DECAE1D0, Facs: DECEAF80, XDsdt: DECAE1D0, XFacs: 0)
+15:998  0:000        DECAE1D0: 'DSDT', 'A M I', Rev: 2, Len: 71552
+15:999  0:000        DECEAF80: 'FACS', Ver: 2, Len: 64
+15:999  0:000    1. DECBFA60: 'APIC', 'A M I', Rev: 3, Len: 146
+15:999  0:000    2. DECBFAF8: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:999  0:000    3. DECBFB40: 'FIDT', 'A M I', Rev: 1, Len: 156
+15:999  0:000    4. DECBFBE0: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:999  0:000    5. DECBFC88: 'SSDT', 'PtidDevc', Rev: 2, Len: 13359
+15:999  0:000    6. DECC30B8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+15:999  0:000    7. DECC30F0: 'SSDT', 'NvdTabl', Rev: 1, Len: 7379
+15:999  0:000    8. DECC4DC8: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+15:999  0:000    9. DECC5308: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+15:999  0:000    10. DECC5E80: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:999  0:000    11. DECC5EC0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:999  0:000    12. DECC5EF8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:999  0:000    13. DECC6268: 'SSDT', 'SaSsdt ', Rev: 2, Len: 23389
+15:999  0:000    14. DECCBDC8: 'UEFI', 'A M I', Rev: 1, Len: 66
+15:999  0:000    15. DECCBE10: 'BGRT', 'A M I', Rev: 0, Len: 56
+15:999  0:000    Tables in Rsdt: 16
+15:999  0:000    0. DECAE148: 'FACP', 'A M I', Rev: 2, Len: 132
+15:999  0:000        (Dsdt: DECAE1D0, Facs: DECEAF40)
+15:999  0:000        DECAE1D0: 'DSDT', 'A M I', Rev: 2, Len: 71552
+15:999  0:000        DECEAF40: 'FACS', Ver: 0, Len: 64
+15:999  0:000    1. DECBFA60: 'APIC', 'A M I', Rev: 3, Len: 146
+15:999  0:000    2. DECBFAF8: 'FPDT', 'A M I', Rev: 1, Len: 68
+15:999  0:000    3. DECBFB40: 'FIDT', 'A M I', Rev: 1, Len: 156
+15:999  0:000    4. DECBFBE0: 'ASF!', ' HCG', Rev: 32, Len: 165
+15:999  0:000    5. DECBFC88: 'SSDT', 'PtidDevc', Rev: 2, Len: 13359
+15:999  0:000    6. DECC30B8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+15:999  0:000    7. DECC30F0: 'SSDT', 'NvdTabl', Rev: 1, Len: 7379
+15:999  0:000    8. DECC4DC8: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+15:999  0:000    9. DECC5308: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+15:999  0:000    10. DECC5E80: 'MCFG', 'A M I', Rev: 1, Len: 60
+15:999  0:000    11. DECC5EC0: 'HPET', 'A M I', Rev: 1, Len: 56
+15:999  0:000    12. DECC5EF8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+15:999  0:000    13. DECC6268: 'SSDT', 'SaSsdt ', Rev: 2, Len: 23389
+15:999  0:000    14. DECCBDC8: 'UEFI', 'A M I', Rev: 1, Len: 66
+15:999  0:000    15. DECCBE10: 'BGRT', 'A M I', Rev: 0, Len: 56
+15:999  0:000  Found UEFI Acpi 1.0 RSDP at DECAE000
+15:999  0:000  Printing ACPI tables from RSDP DECAE000 ...
+15:999  0:000   DECAE000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+15:999  0:000    (Xsdt: DECAE090, Rsdt: DECAE028)
+15:999  0:000    DECAE090: 'XSDT', 'A M I', Rev: 1, Len: 164
+15:999  0:000    DECAE028: 'RSDT', 'A M I', Rev: 1, Len: 100
+15:999  0:000    Tables in Xsdt: 16
+15:999  0:000    0. DECBF950: 'FACP', 'A M I', Rev: 5, Len: 268
+15:999  0:000        (Dsdt: DECAE1D0, Facs: DECEAF80, XDsdt: DECAE1D0, XFacs: 0)
+15:999  0:000        DECAE1D0: 'DSDT', 'A M I', Rev: 2, Len: 71552
+16:000  0:000        DECEAF80: 'FACS', Ver: 2, Len: 64
+16:000  0:000    1. DECBFA60: 'APIC', 'A M I', Rev: 3, Len: 146
+16:000  0:000    2. DECBFAF8: 'FPDT', 'A M I', Rev: 1, Len: 68
+16:000  0:000    3. DECBFB40: 'FIDT', 'A M I', Rev: 1, Len: 156
+16:000  0:000    4. DECBFBE0: 'ASF!', ' HCG', Rev: 32, Len: 165
+16:000  0:000    5. DECBFC88: 'SSDT', 'PtidDevc', Rev: 2, Len: 13359
+16:000  0:000    6. DECC30B8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+16:000  0:000    7. DECC30F0: 'SSDT', 'NvdTabl', Rev: 1, Len: 7379
+16:000  0:000    8. DECC4DC8: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+16:000  0:000    9. DECC5308: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+16:000  0:000    10. DECC5E80: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:000  0:000    11. DECC5EC0: 'HPET', 'A M I', Rev: 1, Len: 56
+16:000  0:000    12. DECC5EF8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+16:000  0:000    13. DECC6268: 'SSDT', 'SaSsdt ', Rev: 2, Len: 23389
+16:000  0:000    14. DECCBDC8: 'UEFI', 'A M I', Rev: 1, Len: 66
+16:000  0:000    15. DECCBE10: 'BGRT', 'A M I', Rev: 0, Len: 56
+16:000  0:000    Tables in Rsdt: 16
+16:000  0:000    0. DECAE148: 'FACP', 'A M I', Rev: 2, Len: 132
+16:000  0:000        (Dsdt: DECAE1D0, Facs: DECEAF40)
+16:000  0:000        DECAE1D0: 'DSDT', 'A M I', Rev: 2, Len: 71552
+16:001  0:000        DECEAF40: 'FACS', Ver: 0, Len: 64
+16:001  0:000    1. DECBFA60: 'APIC', 'A M I', Rev: 3, Len: 146
+16:001  0:000    2. DECBFAF8: 'FPDT', 'A M I', Rev: 1, Len: 68
+16:001  0:000    3. DECBFB40: 'FIDT', 'A M I', Rev: 1, Len: 156
+16:001  0:000    4. DECBFBE0: 'ASF!', ' HCG', Rev: 32, Len: 165
+16:001  0:000    5. DECBFC88: 'SSDT', 'PtidDevc', Rev: 2, Len: 13359
+16:001  0:000    6. DECC30B8: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+16:001  0:000    7. DECC30F0: 'SSDT', 'NvdTabl', Rev: 1, Len: 7379
+16:001  0:000    8. DECC4DC8: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+16:001  0:000    9. DECC5308: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+16:001  0:000    10. DECC5E80: 'MCFG', 'A M I', Rev: 1, Len: 60
+16:001  0:000    11. DECC5EC0: 'HPET', 'A M I', Rev: 1, Len: 56
+16:001  0:000    12. DECC5EF8: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+16:001  0:000    13. DECC6268: 'SSDT', 'SaSsdt ', Rev: 2, Len: 23389
+16:001  0:000    14. DECCBDC8: 'UEFI', 'A M I', Rev: 1, Len: 66
+16:001  0:000    15. DECCBE10: 'BGRT', 'A M I', Rev: 0, Len: 56
