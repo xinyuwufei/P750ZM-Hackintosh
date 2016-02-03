@@ -14,7 +14,7 @@ Laptop Specification:
   
   9 Series Chipset Family Z97 LPC Controller
   
-  
+# Current BIOS using：P75xZM Prema Mod v2
   
   
 #Still WIP...
