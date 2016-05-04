@@ -23,5 +23,5 @@ Laptop Specification:
   usb injection
   
 
-#Credit: 
+#Credits: 
   RehabMan,Toleda,PikeRAlpha,Floris497
