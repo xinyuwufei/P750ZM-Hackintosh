@@ -17,6 +17,11 @@ Laptop Specification:
 # Current BIOS using：P75xZM Prema Mod v2
   
   
-#Still WIP...
+#Still WIP... what not working：
+  on battery wakeup
+  
+# Todo list
+  usb injection
+  
 
 Credit: RehabMan,Toleda,PikeRAlpha,Floris497
