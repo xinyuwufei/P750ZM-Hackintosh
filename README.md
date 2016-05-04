@@ -15,13 +15,13 @@ Laptop Specification:
   9 Series Chipset Family Z97 LPC Controller
   
 # Current BIOS using：P75xZM Prema Mod v2
-  
-  
+
 #Still WIP... what not working：
   on battery wakeup
   
-# Todo list
+# Todo list:
   usb injection
   
 
-Credit: RehabMan,Toleda,PikeRAlpha,Floris497
+#Credit: 
+  RehabMan,Toleda,PikeRAlpha,Floris497
